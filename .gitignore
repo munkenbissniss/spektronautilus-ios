@@ -1,0 +1,9 @@
+# generated
+*.xcodeproj
+App/www/
+DerivedData/
+build/
+.DS_Store
+xcuserdata/
+__pycache__/
+node_modules/
